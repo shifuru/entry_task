@@ -1,0 +1,14 @@
+jwt:
+  key: "himitsu"
+  mode: 1
+
+db:
+  dsn: "root:020406@tcp(127.0.0.1:3306)/ark?charset=utf8mb4&parseTime=True&loc=Local"
+  max_idle: 300
+  max_idle_time: 3600
+  max_open: 4096
+
+redis:
+  addr: "localhost:6379"
+  password: ""
+  db: 0

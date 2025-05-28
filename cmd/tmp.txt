@@ -1,0 +1,20 @@
+{
+   "username": "asari@bandai.jp",
+   "password": "SakuraPhotograph",
+   "role": "admin"
+}
+
+{
+    "token": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDgxNjg5NTAsImdyb3VwIjoiMCIsInN1YiI6IjEiLCJ1c2VybmFtZSI6ImFzYXJpQGJhbmRhaS5qcCJ9.BNz80pGxyMp3_tTmYrM-Rpzic8aDXuoLc2GuVednsv0"
+}
+
+{
+   "username": "producer@hatsuboshi.jp",
+   "password": "PrimaStellar",
+   "topic_id": 12
+}
+
+{
+     "token": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDgxNjk2NDAsImdyb3VwIjoiMTIiLCJzdWIiOiIyIiwidXNlcm5hbWUiOiJwcm9kdWNlckBoYXRzdWJvc2hpLmpwIn0.iwW9xvV0SytjR-CGd1XNuwR6yzB_VLA8CyoidZvlrW0"
+}
+
